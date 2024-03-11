@@ -26,4 +26,4 @@ More info about dataset can be found here:
 
 ## Data Model
 
-<"C:\Users\gpepe\Downloads\Uber_data_model.drawio.png">
+![Uber_data_model drawio](https://github.com/dracarrys/uber-ETL-pipeline-data-engineering-project/assets/100908058/36e64b6d-be8b-4f69-a5e3-f54bf8f0534a)
